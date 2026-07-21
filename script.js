@@ -1,4 +1,4 @@
-const SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzUlLu41R1j1Zj8Zk2Pc34ilwTNV8_dcd1lSILyu_L_LvmdPLp6VecqpJpZcbAbPF3egg/exec';
 
 async function sendDataToScript(data) {
  try {
