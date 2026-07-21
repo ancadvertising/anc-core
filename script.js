@@ -18,3 +18,5 @@ async function sendDataToScript(data) {
  const result = await response.json();
  console.log('Success:', result);
  return
+// استدعاء الدالة عند تحميل الصفحة مع إرسال البيانات
+sendDataToScript({ message: "Hello from GitHub Pages!" });
